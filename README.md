@@ -16,9 +16,7 @@ Singapore:
 Lima, Peru
 * **149.104.66.74**
 
-~
+---
 
 Any issues can be raised here: 
 * [GitHub Issues](https://github.com/theouterspaced/ayni-dns/issues)
-
-~
