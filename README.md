@@ -4,7 +4,7 @@ An encrypted, ad blocking and malware filtering, free dns service that can resol
 More information can be found here:
 * [Ayni-DNS Home](https://kevinmarx.org/ayni-dns.html)
 
-~
+---
 
 Toronto, Canada
 * DoH: https://ayni.kevinmarx.org/dns-query
